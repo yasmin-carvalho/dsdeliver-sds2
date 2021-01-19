@@ -29,7 +29,7 @@ function Home() {
 
 const styles = StyleSheet.create({
     container: {
-      marginTop: '5%',
+      marginTop: '30%',
       alignItems: 'center'
     },
     title: {
@@ -37,7 +37,7 @@ const styles = StyleSheet.create({
       fontSize: 26,
       lineHeight: 35,
       fontWeight: 'bold',
-      marginTop: 31,
+      marginTop: 60,
       textAlign: 'center'
     },
     subTitle: {
@@ -48,7 +48,7 @@ const styles = StyleSheet.create({
       textAlign: 'center'
     },
     footer: {
-      marginTop: '5%',
+      marginTop: '20%',
       alignItems: 'center'
     },
     button: {
